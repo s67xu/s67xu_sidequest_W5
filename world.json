@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "world": {
+    "w": 2400,
+    "h": 1600,
+    "bg": [10, 15, 25]
+  },
+  "camera": {
+    "lerp": 0.06
+  },
+  "playerStart": {
+    "x": 1200,
+    "y": 800,
+    "speed": 2.2
+  }
+}
